@@ -1,0 +1,9 @@
+body { 
+    font-family: "Raleway", sans-serif; 
+}
+
+header {
+    background-image: url(../img/imagenfondo.jpg);
+    background-size: cover;
+    background-position: center;
+}
