@@ -1,0 +1,1 @@
+En la carpeta de imágenes llamada: "img ss" están los screenshots de mis dos fork a proyectos de compañeros.
